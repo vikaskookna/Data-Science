@@ -1,2 +1,2 @@
-# Data-Science-Competitions-
+# Data-Science-Competitions
 
